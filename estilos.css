@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Medium', 'Arial', Aptos, sans-serif;
+    text-align: center;
+    font-size: 8rem;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 2rem;
